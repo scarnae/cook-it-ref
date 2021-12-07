@@ -1,0 +1,9 @@
+.Catégorie {
+	height: 110px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+    background: #3a4972;
+    display: grid;
+}
+
