@@ -1,0 +1,39 @@
+@import url(Bannière Catégorie.css);
+@import url(Bannière.css);
+@import url(Boutons.css);
+@import url(élément.css);
+@import url(présentation.css);
+
+body{
+	font-family: Noto Sans, sans-serif;
+	text-align: center;
+	background-color: #F0F0F0;
+}
+.présentation{
+	text-align: center;
+}
+.Catégorie {
+	height: 90px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+    background: #3a4972;
+    display: grid;
+}
+h1{color:#F8F8F8;
+}
+h2{color:#F8F8F8 ;
+}
+h3{
+	color:#394dae;
+}
+.flex{ display: inline-grid;
+
+}
+a{
+	text-decoration: none;
+}
+p{
+	margin-top: 30px;
+    margin-bottom: 30px;
+}
